@@ -1,6 +1,6 @@
 # Build-a-VPC
 
-VPC a VPc is a comprehensive guide to creating and managing Virtual Private Clouds (VPCs) on AWS. This project demonstrates how to design secure, scalable, and cost-effective network infrastructures using AWS VPC features.
+VPC a VPC is a comprehensive guide to creating and managing Virtual Private Clouds (VPCs) on AWS. This project demonstrates how to design secure, scalable, and cost-effective network infrastructures using AWS VPC features.
 
 ## Features
 
